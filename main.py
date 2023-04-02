@@ -42,7 +42,7 @@ def process_queries(queries):
             # for contact in contacts:
                 # if contact.number == cur_query.number:
                     # response = contact.name
-                    break
+                    # break
             result.append(response)
     return result
 
